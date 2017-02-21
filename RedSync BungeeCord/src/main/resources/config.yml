@@ -1,0 +1,16 @@
+Redis:
+  Host: 127.0.0.1
+  Port: 6379
+  DB-Index: 0
+  Timeout: 60000
+  Connections: 2
+  Channel: REDSYNC
+  Auth:
+    Enabled: false
+    Password: password
+  Connection-Validation:
+    Create: true
+    Return: true
+Excluded-Servers:
+- lobby
+Config-Version: 3

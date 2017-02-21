@@ -1,0 +1,4 @@
+de\lenic\redsync\db\RedisPubSub.class
+de\lenic\redsync\listeners\ConnectListener.class
+de\lenic\redsync\RedSyncBungee.class
+de\lenic\redsync\listeners\ServerSwitchListener.class
